@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iCJKRsOkdEacQPwiNAU71ANW8Afj3qWhukX4hCVGKlu+TOoqy4DXzqNbJsKCUcrQb2mBP0NZgRcRa+tBlDA7zw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\source\\repos\\GSServer\\GSServer\\GSServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\supersimpletcp\\3.0.5\\supersimpletcp.3.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
