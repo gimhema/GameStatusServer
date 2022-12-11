@@ -6,6 +6,7 @@ namespace GSServer
     public partial class Form1 : Form
     {
         SimpleTcpServer server;
+        // ServerCore serverCore;
         
         public Form1()
         {
@@ -32,6 +33,7 @@ namespace GSServer
             server.Events.ClientConnected += Events_ClientConnected;
             server.Events.ClientDisconnected += Events_ClientDisconnected;
             server.Events.DataReceived += Events_DataReceived;
+
         }
 
         private void Events_DataReceived(object? sender, DataReceivedEventArgs e)
